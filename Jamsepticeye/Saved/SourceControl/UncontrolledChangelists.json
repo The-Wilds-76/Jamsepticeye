@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/Scientist.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7B/MQG3911JARSUOQGQHIFKXM.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/I6/2C9TUKZBLE020OL13CKGFB.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PT/9UHSJGGDXPMC8U63KZPM5R.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0X/2Q5ZU888ZNALLDB4L6NT1N.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ND/IGTYMHS38S2HYJUBVA8D0R.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/F6/WWOMSK10A0O3MZCCJXLFC8.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/BP_ThirdPersonCharacter.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/F.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/Sciene.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/Scientistt.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/NPCs/Human/Scientist_V2.uasset",
+				"D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
