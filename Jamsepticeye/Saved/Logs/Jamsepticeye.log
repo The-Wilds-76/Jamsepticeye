@@ -4376,3 +4376,17 @@ Potentially Affected Packages:
 [2025.10.01-22.39.49:549][447]LogSavePackage: Warning: 
 Referencers of BlueprintGeneratedClass /Game/NPCs/Human/F.F_C:
 [2025.10.01-22.39.49:690][447]Warning: Can't save 'D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Saved/Autosaves/Game/NPCs/Human/Scientist_Auto5.uasset': Illegal reference to private object: 'BlueprintGeneratedClass /Game/NPCs/Human/F.F_C' referenced by 'Unknown referencer' (at 'Unknown owner') in its 'Unknown property' property.
+[2025.10.01-22.44.34:093][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4819.873535
+[2025.10.01-22.44.35:093][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-22.44.35:093][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4820.540039, Update Interval: 342.776581
+[2025.10.01-22.49.49:929][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.01-22.49.49:931][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.10.01-22.49.49:931][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPCs/Human/Scientist] ([3] browsable assets)...
+[2025.10.01-22.49.49:931][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPCs/Human/Scientist]
+[2025.10.01-22.49.49:931][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Human/Scientist" FILE="D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Saved/Autosaves/Game/NPCs/Human/Scientist_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.10.01-22.49.49:931][248]LogSavePackage: Warning: 
+Referencers of BlueprintGeneratedClass /Game/NPCs/Human/F.F_C:
+[2025.10.01-22.49.50:069][248]Warning: Can't save 'D:/Code/Unreal/Jamsepticeye/Jamsepticeye/Saved/Autosaves/Game/NPCs/Human/Scientist_Auto5.uasset': Illegal reference to private object: 'BlueprintGeneratedClass /Game/NPCs/Human/F.F_C' referenced by 'Unknown referencer' (at 'Unknown owner') in its 'Unknown property' property.
+[2025.10.01-22.51.12:485][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5218.274902
+[2025.10.01-22.51.13:486][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-22.51.13:486][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5218.942871, Update Interval: 341.095612
